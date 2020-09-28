@@ -8,5 +8,7 @@ public class Demo3 {
         System.out.println("开发001");
         System.out.println("开发002");
         System.out.println("开发003");
+
+        System.out.println("bug fix");
     }
 }
