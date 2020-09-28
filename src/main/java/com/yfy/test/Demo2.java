@@ -7,5 +7,7 @@ public class Demo2 {
         System.out.println("log 1");
         System.out.println("log 2");
         System.out.println("log 3");
+
+        System.out.println("add1");
     }
 }
