@@ -10,5 +10,6 @@ public class Demo3 {
         System.out.println("开发003");
 
         System.out.println("bug fix");
+        System.out.println("111222");
     }
 }
