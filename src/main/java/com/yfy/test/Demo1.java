@@ -8,5 +8,7 @@ public class Demo1 {
         System.out.println("第三次提交");
 
         System.out.println("test commit");
+
+        System.out.println("test commit 2");
     }
 }
